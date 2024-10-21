@@ -1,5 +1,7 @@
 # BOX
 
+![BOX Typeface Cover](image/box-cover.png)
+
 **BOX** is a geometric sans-serif typeface crafted as the core of the visual identity for **Besign** and its lead designer, **Barry Shawn**. BOX blends modern minimalism with clean geometric shapes, offering both a sleek and versatile design solution for various applications.
 
 ## Key Features
