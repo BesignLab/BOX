@@ -1,4 +1,4 @@
-[[简体中文]](readme-CN.md)　　　[[English]](README.md) 
+[[简体中文]](readme-CN.md)　[[English]](README.md) 
 
 # BOX
 
