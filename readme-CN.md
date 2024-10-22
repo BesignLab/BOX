@@ -1,3 +1,5 @@
+[[简体中文]](readme-CN.md)　[[English]](README.md) 
+
 # BOX
 
 ![BOX 字体封面](image/cover.png)
