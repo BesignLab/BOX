@@ -1,3 +1,5 @@
+[简体中文介绍](readme-cn.md)
+
 # BOX
 
 ![BOX Typeface Cover](image/cover.png)
