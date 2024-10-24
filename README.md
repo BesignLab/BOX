@@ -28,5 +28,6 @@ BOX Typeface is licensed under the SIL Open Font License (OFL) 1.1. See the incl
 
 ---
 
-Designed by **Barry Shawn** at **Besign Foundry**.
-Visit us at [Besign](https://barryshawn.com/besign).
+## Credits
+
+BOX was designed by [Barry Shawn](https://github.com/BarryShawnsz) and distributed by [Besign Foundry](https://github.com/BesignLab) as part of an ongoing exploration of typeface design.
