@@ -28,5 +28,6 @@ BOX 字体遵循 SIL Open Font License (OFL) 1.1 协议发布。详情请参阅�
 
 ---
 
-由 **Barry Shawn** 在 **Besign Foundry** 设计。
-访问我们的网站 [Besign](https://barryshawn.com/besign)。
+## 致谢
+
+BOX 由 [Barry Shawn](https://github.com/BarryShawnsz) 设计，由 [Besign Foundry](https://github.com/BesignLab) 分发，这是其字体设计探索项目的一部分。
